@@ -12,5 +12,5 @@ def main(s):
         if s[i].isdigit():
             ans+=1
         i+=1
-    return ans
+    return ans  
 print(main("salom5855"))
